@@ -1,0 +1,8 @@
+# ─────────────────────────────────────────────────────────────
+# Streamlit secrets — sla dit op als .streamlit/secrets.toml
+# (maak de map .streamlit aan in dezelfde map als de app)
+# ─────────────────────────────────────────────────────────────
+
+# Vul hier jouw Groq API key in.
+# Aanmaken via: https://console.groq.com/keys
+GROQ_API_KEY = "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"
