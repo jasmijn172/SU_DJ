@@ -13,6 +13,8 @@ import re
 import csv
 from groq import Groq
 
+api_key = st.secrets["GROQ_API_KEY"]
+
 # ─────────────────────────────────────────────
 # PAGINA CONFIG
 # ─────────────────────────────────────────────
